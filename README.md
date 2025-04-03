@@ -1,11 +1,11 @@
 # Rutvik.github.io
 
-## projects
+  ## projects
 ### project 1
 - description
 - link
 
-  ### project 2
+### project 2
   - description
   - link
 
